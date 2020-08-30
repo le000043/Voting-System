@@ -1,0 +1,9 @@
+=============================
+Winners of election 
+winner
+name='david', score=3, partyString='d
+winner
+name='albert', score=3, partyString='d
+winner
+name='bob', score=3, partyString='r
+=============================

@@ -1,0 +1,15 @@
+=============================
+Winners of election 
+winner
+name='Deutsch', score=0, partyString='R
+winner
+name='Wong', score=0, partyString='R
+winner
+name='Pike', score=0, partyString='D
+winner
+name='Foster', score=0, partyString='D
+winner
+name='Jones', score=0, partyString='G
+winner
+name='Perez', score=0, partyString='I
+=============================

@@ -1,0 +1,5 @@
+=============================
+Winners of election
+winner
+name='Pike', score=0, partyString='D
+=============================

@@ -1,0 +1,10 @@
+=============================
+
+Number of seats 	1
+Number of Candidates 	3
+Number of Ballots 	1
+Winners of election 	winner	Candidate@5656be13
+Party Statistic 	Party@76505305
+Party@14cd1699
+Party@77888435
+=============================

@@ -1,0 +1,8 @@
+ballot tests should match these results.
+
+Opl test 1    jab,1;tony,0;felo,o;rrat,2;vito,4  seats4
+opl test 2    Keith,5;John,4;Pete,3              seats2
+opl test 3    chad,2;Steve,4;doug,3;brad,2       seats3
+cpl test 1    d,8;r,5    seats 3    winners jah,d;tam,d;  bob,r
+cpl test 2    green,4;dem,3;rep,2   winners bob,green; carl,dem
+cpl test 3   d,5;r,2                winners dan,d; alice,bob; r

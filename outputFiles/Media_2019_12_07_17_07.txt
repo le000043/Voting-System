@@ -1,0 +1,21 @@
+Party Statistic 	=============================
+
+Number of seats 	4
+Number of Candidates 	500000
+Number of Ballots 	7
+Winners of election 	=============================
+
+Number of seats 	4
+Number of Candidates 	500000
+Number of Ballots 	7
+Winners of election 	winner	name='Deutsch', score=0, partyString='R
+winner	name='Wong', score=0, partyString='R
+winner	name='Pike', score=0, partyString='D
+winner	name='Foster', score=0, partyString='D
+winner	name='Jones', score=0, partyString='G
+winner	name='Perez', score=0, partyString='I
+Party{candidateList=[name='Deutsch', score=0, partyString='R, name='Wong', score=0, partyString='R, name='Walters', score=0, partyString='R, name='Keller', score=0, partyString='R, name='Borg', score=0, partyString='R], numberOfSeats=2, name='R', partyVotes=125073}
+Party{candidateList=[name='Pike', score=0, partyString='D, name='Foster', score=0, partyString='D, name='Floyd', score=0, partyString='D, name='Jones', score=0, partyString='D, name='Mallory', score=0, partyString='D], numberOfSeats=2, name='D', partyVotes=124987}
+Party{candidateList=[name='Jones', score=0, partyString='G, name='Smith', score=0, partyString='G, name='Lewis', score=0, partyString='G, name='Smith', score=0, partyString='G, name='Li', score=0, partyString='G], numberOfSeats=1, name='G', partyVotes=124893}
+Party{candidateList=[name='Perez', score=0, partyString='I], numberOfSeats=2, name='I', partyVotes=125047}
+=============================

@@ -1,0 +1,50 @@
+Election Driver starting up
+File /Volumes/GoogleDrive/My Drive/University of Minnesota/Years/Fall 2019/CSCI 5801 (001) Software Engineering 1/repo-Team31/Project2/testing/regression_cpl.csv being parsed
+Election type found:	CPL
+
+Found Election information:	[D,I]
+
+Candidate found:	[Pike,D,1]
+
+Candidate found:	[Perez,I,1]
+
+Ballot found:	1,
+
+Building Election
+
+Building generateBallotList
+
+Building preparePartyNames
+
+Building generateElectionInfo
+
+Building generateElectionInfo
+
+Building generateCandidateList
+
+Candidate Created	Pike
+Candidate Created	Perez
+Building generatePartyList
+
+Party Created
+
+Party{candidateList=[], numberOfSeats=0, name='D', partyVotes=0}
+Adding candidate	Pike To party	D
+Assigning Candidate	Pike To Party	D
+Party Created
+
+Party{candidateList=[], numberOfSeats=0, name='I', partyVotes=0}
+Adding candidate	Perez To party	I
+Assigning Candidate	Perez To Party	I
+initCoinFlip
+++++++++++++++++++++++++++
+Election Running
+Counting Vote	
+Increasing vote Count	 D
+Votes goes to Party	D
+Election DistributeSeats
+Distributing Seats
+Election PickWinners
+Winner	name='Pike', score=0, partyString='D
+Election results Report
+Winner	name='Pike', score=0, partyString='D
